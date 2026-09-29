@@ -94,7 +94,9 @@ Built in Tableau:
 - Day-wise sales split
 - Top 5 best-selling products
 
-*(dashboard screenshot / Tableau Public link goes here)*
+### Dashboard Preview
+
+![Sales Analysis Dashboard](./DASHBOARD1.png)
 
 ## Key Business Insights
 
