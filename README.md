@@ -83,7 +83,7 @@ Insight: Spread evenly across all 5 cities.
 A: 5
 Insight: Bangalore, Delhi, Hyderabad, Mumbai, Pune.
 
-All 10 questions with full queries and comments are available in `Sales_Analysis.sql`.
+All 10 questions with full queries and comments are available in `Sales_analysis.sql`.
 
 ## Dashboard
 
